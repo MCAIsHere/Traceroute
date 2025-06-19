@@ -1,2 +1,2 @@
 # Traceroute
-running the script:
+
